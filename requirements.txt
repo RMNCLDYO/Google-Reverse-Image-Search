@@ -1,0 +1,5 @@
+# Core dependencies
+requests
+beautifulsoup4
+
+# Additional dependencies may be added as needed
