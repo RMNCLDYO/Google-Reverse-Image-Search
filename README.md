@@ -1,4 +1,24 @@
-# Google Reverse Image Search
+<p align="center">
+    <a href="https://python.org" title="Go to Python homepage"><img src="https://img.shields.io/badge/Python-&gt;=3.x-blue?logo=python&amp;logoColor=white" alt="Made with Python"></a>
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/maintained-yes-2ea44f" alt="maintained - yes">
+    <a href="/CONTRIBUTING.md" title="Go to contributions doc"><img src="https://img.shields.io/badge/contributions-welcome-2ea44f" alt="contributions - welcome"></a>
+</p>
+
+<p align="center">
+    <a href="https://pypi.org/project/requests"><img src="https://img.shields.io/badge/dependency-requests-critical" alt="dependency - requests"></a>
+    <a href="https://pypi.org/project/beautifulsoup4"><img src="https://img.shields.io/badge/dependency-beautifulsoup4-critical" alt="dependency - beautifulsoup4"></a>
+</p>
+
+<p align="center">
+    <img width="700" src="https://raw.githubusercontent.com/RMNCLDYO/Google-Reverse-Image-Search/main/.github/logo.png">
+</p>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/dynamic/json?label=Google+Reverse+Image+Search&query=version&url=https%3A%2F%2Fraw.githubusercontent.com%2FRMNCLDYO%2FGoogle-Reverse-Image-Search%2Fmain%2F.github%2Fversion.json" alt="Version">
+</p>
 
 ## Overview
 Google Reverse Image Search is an open-source Python library designed for leveraging Google's search by image capabilities to perform reverse image searches programatically. This tool is particularly useful for applications like verifying the source of an image, finding higher resolution versions, or identifying the content and context of an image. It's designed for developers, researchers, and hobbyists who require an automated, programmatic way to perform reverse image searches.
