@@ -30,9 +30,12 @@ Google Reverse Image Search is an open-source Python library designed for levera
 - Built-in error handling and logging.
 
 ## Prerequisites
-- Python 3.x
-- `requests` library
-- `beautifulsoup4` library for HTML parsing
+- `Python 3.x`
+
+## Dependencies
+The following Python packages are required:
+- `requests`: For making HTTP requests to Google.
+- `beautifulsoup4` library for parsing the results.
 
 ## Installation
 Clone the repository and install the required dependencies:
