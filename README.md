@@ -45,11 +45,6 @@ cd Google-Reverse-Image-Search
 pip install -r requirements.txt
 ```
 
-## Dependencies
-The tool requires the following Python packages:
-- `requests`
-- `beautifulsoup4`
-
 ## Usage
 
 To use the Google Reverse Image Search module, follow these steps:
